@@ -35,7 +35,7 @@ h1{
     font-size: large;
 }
 .bookingButton{
-    background-color: rgba(67, 67, 254, 0.463);
+    background-color: #80d4fa;
     height: 35px;
     width: 110px;
     border-radius: 2px;
@@ -43,5 +43,5 @@ h1{
 }
 .bookingButton:hover{
     cursor: pointer;
-    background-color: rgba(0, 0, 255, 0.604);
+    background-color: #1495d1;
 }
